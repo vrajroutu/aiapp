@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@clerk/nextjs": "^6.14.3",
+    "ai": "^4.3.5",
+    "openai": "^4.93.0",
+    "react-hot-toast": "^2.5.2"
+  }
+}
